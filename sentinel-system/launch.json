@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Sentinel - Run with Webhook",
+            "request": "launch",
+            "mainClass": "com.sentinel.App",
+            "env": {
+                "SENTINEL_WEBHOOK": "https://discordapp.com/api/webhooks/1456952715161894975/g7BE-j2vA3A8-Uw2MuD6Q6NH2Iq5WVWAG4Un0vomNcBesML4Xs-piA50accItEQjpnk1"
+            }
+        }
+    ]
+}

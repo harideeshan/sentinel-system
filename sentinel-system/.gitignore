@@ -1,0 +1,12 @@
+# Ignore compiled Java files
+target/
+*.class
+
+# Ignore evidence images
+evidence_*.jpg
+
+# Ignore the activity log (optional)
+sentinel_activity_log.html
+
+# Ignore OS files
+.DS_Store
